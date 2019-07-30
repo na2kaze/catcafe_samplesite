@@ -1,0 +1,39 @@
+/*bootstrap overwrite */
+.carousel{
+    margin-bottom: 30px;
+}
+
+/*custom */
+footer{
+    padding: 30px;
+    background-color: #dee2e6;
+}
+
+h1{
+    border-bottom: 1px solid #dee2e6;
+    margin-top: 5px; 
+    margin-bottom: 5px;
+    text-align: center
+}
+h2{
+    text-align: center
+}
+th{
+    width: 100px;
+}
+
+.service-icon{
+    text-align: center;
+    width:50px;
+    height: 50px;
+}
+
+.con-margin{
+    margin: 50px 0px 150px 0px;
+}
+
+.image-cut{
+    height: 300px;
+    object-fit: cover;
+}
+
